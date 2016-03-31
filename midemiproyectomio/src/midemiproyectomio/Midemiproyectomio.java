@@ -21,7 +21,8 @@ public class Midemiproyectomio {
         for (int i = 0; i < 10; i++) {
             i=i;
         }
-            
+        
+        System.out.println("ya le modifique");
         }
     
 }
